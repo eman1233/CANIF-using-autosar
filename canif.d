@@ -1,0 +1,13 @@
+.\canif.o: Canif.c
+.\canif.o: canif.h
+.\canif.o: CanIf_Types.h
+.\canif.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\canif.o: ComStack_Types.h
+.\canif.o: Std_Types.h
+.\canif.o: Can_GenralTypes.h
+.\canif.o: Det.h
+.\canif.o: Std_Types.h
+.\canif.o: Dem.h
+.\canif.o: Dem_IntErrId.h
+.\canif.o: MemMap.h
+.\canif.o: CanIf_Cbk.h
